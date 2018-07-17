@@ -1,0 +1,7 @@
+gremlin:
+  endpoint: localhost
+  port: 8182
+  telemetryAllowed: false
+
+app:
+  graph: air_routes
